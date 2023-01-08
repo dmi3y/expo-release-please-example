@@ -11,3 +11,5 @@ jobs:
         with:
           release-type: expo
           package-name: expo-release-please-example
+          extra-files: |
+            README.md
