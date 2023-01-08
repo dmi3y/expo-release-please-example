@@ -1,6 +1,6 @@
 {
   "name": "expo-release-please-example",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "engines": {
     "node": "16.19.0"
