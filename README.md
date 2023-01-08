@@ -16,7 +16,7 @@ yarn dlx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-co
 
 - Setting up [please-release][please-release-github-repo] action for `expo` release type strategy.
 
-- Using arbitrary file update [feature][please-release-doc-arbitrary-file-update] inside this README.md to display current version v1.0.0 <!-- x-release-please-start-version --> (note inline comment)
+- Using arbitrary file update [feature][please-release-doc-arbitrary-file-update] inside this [README.md][readme-code-arbitrary-file-update] to display current version v1.0.0 <!-- x-release-please-start-version --> (note inline comment)
 
 - This is [first][initial-version-pr] PR introduced by release-please.
 
@@ -24,3 +24,4 @@ yarn dlx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-co
 [please-release-github-repo]: https://github.com/googleapis/release-please
 [please-release-doc-arbitrary-file-update]: https://github.com/googleapis/release-please/blob/main/docs/customizing.md#updating-arbitrary-json-files
 [initial-version-pr]: https://github.com/dmi3y/expo-release-please-example/pull/1/files
+[readme-code-arbitrary-file-update]: https://github.com/dmi3y/expo-release-please-example/blob/main/README.md?plain=1#L19
