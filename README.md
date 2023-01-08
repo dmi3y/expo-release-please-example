@@ -20,14 +20,29 @@ yarn dlx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-co
 
 - Using arbitrary file update [feature][release-please-doc-arbitrary-file-update] inside this [README.md][readme-code-arbitrary-file-update] to display current version v1.0.1 (note inline comment) <!-- x-release-please-version -->
 
-- This is [first][initial-version-pr] PR introduced by release-please.
+- This is [initial][version-pr-initial] first PR introduced by release-please.
+- This is [patch][version-pr-patch] PR with fixes.
+- This is [breaking][version-pr-major] PR with fixes.
 
-- This is [second][patch-version-pr] PR with fixes.
+### Note on existing repo versioning
+
+This example assumes `release-please` being used from the initial app bootstrap. If you already have an app running and want to start with some existing version consider using bootstrapping `release-please` with [.release-please-manifest.json][release-please-initial-version] file.
+For this package context of this file **might** look something like.
+
+```json
+{
+  "packages": {
+    ".": "3.4.5"
+  }
+}
+```
 
 [expo-app-get-started]: https://docs.expo.dev
 [release-please-github-repo]: https://github.com/googleapis/release-please
 [release-please-github-action-repo]: https://github.com/google-github-actions/release-please-action
 [release-please-doc-arbitrary-file-update]: https://github.com/googleapis/release-please/blob/main/docs/customizing.md#updating-arbitrary-json-files
-[initial-version-pr]: https://github.com/dmi3y/expo-release-please-example/pull/1/files
+[version-pr-initial]: https://github.com/dmi3y/expo-release-please-example/pull/1/files
 [readme-code-arbitrary-file-update]: https://github.com/dmi3y/expo-release-please-example/blob/main/README.md?plain=1#L19
-[patch-version-pr]: https://github.com/dmi3y/expo-release-please-example/pull/2
+[version-pr-patch]: https://github.com/dmi3y/expo-release-please-example/pull/2
+[release-please-initial-version]: https://github.com/googleapis/release-please/blob/main/docs/manifest-releaser.md#initial-version
+[version-pr-major]: https://github.com/dmi3y/expo-release-please-example/pull/3
