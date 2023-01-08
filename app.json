@@ -2,7 +2,7 @@
   "expo": {
     "name": "expo-release-please-example",
     "slug": "expo-release-please-example",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",

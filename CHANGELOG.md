@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/dmi3y/expo-release-please-example/compare/v1.0.1...v2.0.0) (2023-01-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* add advanced use section in README.md
+
+### Bug Fixes
+
+* add advanced use section in README.md ([66bd246](https://github.com/dmi3y/expo-release-please-example/commit/66bd24635f00642d221cb19211fe63048ac29cbf))
+
 ## [1.0.1](https://github.com/dmi3y/expo-release-please-example/compare/v1.0.0...v1.0.1) (2023-01-08)
 
 
