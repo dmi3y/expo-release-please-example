@@ -22,9 +22,12 @@ yarn dlx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-co
 
 - This is [first][initial-version-pr] PR introduced by release-please.
 
+- This is [second][patch-version-pr] PR with fixes.
+
 [expo-app-get-started]: https://docs.expo.dev
 [release-please-github-repo]: https://github.com/googleapis/release-please
 [release-please-github-action-repo]: https://github.com/google-github-actions/release-please-action
 [release-please-doc-arbitrary-file-update]: https://github.com/googleapis/release-please/blob/main/docs/customizing.md#updating-arbitrary-json-files
 [initial-version-pr]: https://github.com/dmi3y/expo-release-please-example/pull/1/files
 [readme-code-arbitrary-file-update]: https://github.com/dmi3y/expo-release-please-example/blob/main/README.md?plain=1#L19
+[patch-version-pr]: https://github.com/dmi3y/expo-release-please-example/pull/2
