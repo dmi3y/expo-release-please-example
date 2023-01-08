@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.1.0](https://github.com/dmi3y/expo-release-please-example/compare/v2.0.0...v2.1.0) (2023-01-08)
+
+
+### Features
+
+* bold readme package version ([a24e105](https://github.com/dmi3y/expo-release-please-example/commit/a24e10535334955b58d5bb7a2e4ddfb4c3225056))
+
+
+### Bug Fixes
+
+* add link to feature release pr ([626c2f1](https://github.com/dmi3y/expo-release-please-example/commit/626c2f1383d651b25742c146c037c3e6f1e9b73a))
+
 ## [2.0.0](https://github.com/dmi3y/expo-release-please-example/compare/v1.0.1...v2.0.0) (2023-01-08)
 
 
