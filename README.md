@@ -28,7 +28,7 @@ yarn dlx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-co
 ### Note on existing repo versioning
 
 This example assumes `release-please` being used from the initial app bootstrap. If you already have an app running and want to start with some existing version consider using bootstrapping `release-please` with [`.release-please-manifest.json`][release-please-initial-version] file.
-For this example repo the context of `.release-please-manifest.json` this file **might** look something like.
+For this example repo the context of `.release-please-manifest.json` file **might** look something like.
 
 ```json
 {
