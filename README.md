@@ -22,7 +22,8 @@ yarn dlx expo install react-native-web@~0.18.9 react-dom@18.1.0 @expo/webpack-co
 
 - This is [initial][version-pr-initial] first PR introduced by release-please.
 - This is [patch][version-pr-patch] PR with fixes.
-- This is [breaking][version-pr-major] PR with fixes.
+- This is [breaking][version-pr-major] PR with breaking fixes.
+- This is [feature][version-pr-feat] PR with new feature.
 
 ### Note on existing repo versioning
 
@@ -46,3 +47,4 @@ For this package context of this file **might** look something like.
 [version-pr-patch]: https://github.com/dmi3y/expo-release-please-example/pull/2
 [release-please-initial-version]: https://github.com/googleapis/release-please/blob/main/docs/manifest-releaser.md#initial-version
 [version-pr-major]: https://github.com/dmi3y/expo-release-please-example/pull/3
+[version-pr-feat]: https://github.com/dmi3y/expo-release-please-example/pull/4
